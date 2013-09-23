@@ -1,6 +1,5 @@
 # Deutsch
-* AB "Alexander und Magarett...": Analysieren + Wichtige Informationen stichpunktartig notieren
-* AB "Vergangeheitsbewältigung...": Aufgaben erledigen
+* AB: "Innere Monolog" Aufgabe 4 (a) + (b)
 
 # Englisch
 * AB: Activities 1 + 2
