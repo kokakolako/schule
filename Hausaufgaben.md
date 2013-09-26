@@ -11,6 +11,7 @@
 
 ## Aufgaben
 * S. 206-216 lesen
+* Podiumsdiskussion (USA vs. UdSSR) vorbereiten
 
 ## Thematik der Klausur
 * Judenverfolgung
