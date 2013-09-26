@@ -1,5 +1,6 @@
 # Deutsch
 
+## Aufgaben
 * AB: "Erzählhaltung im Roman ..."
 
 ## Thematik der Klausur:
@@ -8,6 +9,7 @@
 
 # Geschichte 
 
+## Aufgaben
 * S. 206-216 lesen
 
 ## Thematik der Klausur
@@ -18,11 +20,13 @@
 
 # Englisch
 
+## Aufgaben
 * AB: Activities 1 + 2
 
 
 # Religion
 
+## Aufgaben
 * Text lesen + Frage beantworten: "Was sind die tieferen Ursachen und die Folgen der Entscheidung Konstantins, das Christentum zu tolerieren?"
 
 
