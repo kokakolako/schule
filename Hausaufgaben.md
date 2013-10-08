@@ -1,7 +1,6 @@
 # Deutsch
 
-* Beschreibe die Grunsituation im Gedicht
-* Analysiere die Form, Zeige wie der Inhalt (Beziehung) sich in der Form ausdrückt
+* Analysiere die Form des George-Gedichts und zeige, inwiefern die Form der Inhalt ist (Im Bezug auf hofmannsthals Zitat)
 
 # Sonstiges
 
