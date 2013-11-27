@@ -1,2 +1,5 @@
-# SOWI
-Agenda AB Aufgaben bearbeiten
+Englisch:
+=========
+
+-   Training (AB) durcharbeiten
+
