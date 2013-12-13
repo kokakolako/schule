@@ -1,5 +1,6 @@
-Englisch:
-=========
+Deutsch:
+========
 
--   Training (AB) durcharbeiten
+* Süßmilch AB: Aufgabe 1 + 2
+
 
