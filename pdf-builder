@@ -1,7 +1,7 @@
 #!/usr/bin/zsh
 
 for i in **/*.md ; do
-    if [[ "$i" !=  $("README.md" || "Hausaufgaben.md") ]]; then
+    if [[ "$i" != "README.md" || "$i" != "Hausaufgaben.md" ]]; then
         pandoc -o "$( echo "$i" | sed s/.md/.pdf/g )" "$i"
     fi
 done
